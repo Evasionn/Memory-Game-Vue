@@ -1,4 +1,6 @@
-# memory-game
+# Memory Game with using Vue.js
+
+![](screenshoot.png)
 
 ## Project setup
 ```
