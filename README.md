@@ -2,6 +2,9 @@
 
 ![](screenshoot.png)
 
+## Live Demo
+[Live demo](http://melihsahakin.com/games/memory/)
+
 ## Project setup
 ```
 yarn install
